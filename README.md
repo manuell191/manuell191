@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on games
-- 📫 How to reach me @manuell_191 on Instagram
+- 📫 How to reach me https://linktr.ee/manuell191
 
 <!---
 manuell191/manuell191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
